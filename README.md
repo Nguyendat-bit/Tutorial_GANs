@@ -17,5 +17,4 @@ GANs with Tensorflow:
 - python >= 3.9
 - numpy >= 1.20.3
 - tensorflow >= 2.7.0
-- opencv >= 4.5.4
-- matplotlib >= 3.4.3
+
